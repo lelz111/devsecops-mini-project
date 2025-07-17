@@ -9,7 +9,7 @@ const config = {
     },
     
     api: {
-        secret_key: 'sk-1234567890abcdef', // Security vulnerability: hardcoded API key
+//        secret_key: 'sk-1234567890abcdef', // Security vulnerability: hardcoded API key
         jwt_secret: 'my_super_secret_jwt_key_2023' // Security vulnerability: hardcoded JWT secret
     },
     
